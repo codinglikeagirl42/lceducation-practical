@@ -17,6 +17,7 @@ Chapters
    chapters/loops/index
    chapters/functions/index
    chapters/more-on-functions/index
+   chapters/classes-and-objects/index
    chapters/booster-rockets/index
 
 .. toctree::
@@ -36,6 +37,7 @@ Studios
    chapters/loops/studio
    chapters/functions/studio
    chapters/more-on-functions/studio
+   chapters/classes-and-objects/studio
 
 Assignments
 ^^^^^^^^^^^
