@@ -14,5 +14,6 @@ Exercise Solutions
    loops
    functions
    more-on-functions
+   classes-and-objects
 
    
